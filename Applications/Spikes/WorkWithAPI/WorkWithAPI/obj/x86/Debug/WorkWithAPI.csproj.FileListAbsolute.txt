@@ -1,0 +1,4 @@
+C:\Users\User\Documents\GitHub\IndiaDeals2Day\IndiaDeals2Day\Applications\Spikes\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.exe
+C:\Users\User\Documents\GitHub\IndiaDeals2Day\IndiaDeals2Day\Applications\Spikes\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.pdb
+C:\Users\User\Documents\GitHub\IndiaDeals2Day\IndiaDeals2Day\Applications\Spikes\WorkWithAPI\WorkWithAPI\obj\x86\Debug\WorkWithAPI.exe
+C:\Users\User\Documents\GitHub\IndiaDeals2Day\IndiaDeals2Day\Applications\Spikes\WorkWithAPI\WorkWithAPI\obj\x86\Debug\WorkWithAPI.pdb

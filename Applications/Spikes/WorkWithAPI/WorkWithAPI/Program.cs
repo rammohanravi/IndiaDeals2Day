@@ -9,6 +9,9 @@ namespace WorkWithAPI
     {
         static void Main(string[] args)
         {
+            FlipKart fkart = new FlipKart();
+            fkart.ReadFlipKartAPIFeedsAndURLs();
         }
+        
     }
 }
