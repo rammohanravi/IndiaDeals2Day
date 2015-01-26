@@ -47,7 +47,7 @@ namespace WorkWithAPI
                 string productUrl = (from x in element.Descendants("get") select x.Value).Single();
                 string productName = (from x in element.Descendants("resourceName") select x.Value).Single();
                 ReadProductData(productUrl, productName);
-                Console.WriteLine("{0}.{1}+ Done", i,productName);
+                Console.WriteLine("{0}.{1}  Done", i,productName);
                 i++;
             }
         }
