@@ -17,7 +17,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:reh.xml?expiresAt=1422339448022&amp;sig=288634d7237cb703055fce46453637fa</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:reh.xml?expiresAt=1422505718814&amp;sig=19d0c08bbf12a2b57468d371c7009210</get>
                     <resourceName>bags_wallets_belts</resourceName>
                   </value>
                 </entry>
@@ -36,7 +36,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:t06-r3o.xml?expiresAt=1422339448022&amp;sig=1c2e6079af371a76deafac1ab7e6ec44</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:t06-r3o.xml?expiresAt=1422505718814&amp;sig=352e49c859f65964511bd30f1a82b39c</get>
                     <resourceName>fragrances</resourceName>
                   </value>
                 </entry>
@@ -55,7 +55,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-ul6.xml?expiresAt=1422339448023&amp;sig=df8216958dec4add2232a6584b00452e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-ul6.xml?expiresAt=1422505718816&amp;sig=dded609d9dcdbe3f149879f25249389e</get>
                     <resourceName>tv_video_accessories</resourceName>
                   </value>
                 </entry>
@@ -74,7 +74,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:jek-6l2.xml?expiresAt=1422339448022&amp;sig=dfce6e80ce14c717b406385bcb380296</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:jek-6l2.xml?expiresAt=1422505718814&amp;sig=eac3f4ea7957d9b0b769f9a892e7fd43</get>
                     <resourceName>camera_accessories</resourceName>
                   </value>
                 </entry>
@@ -93,7 +93,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:dep.xml?expiresAt=1422339448023&amp;sig=2027e75b88d6852d619d9f8429c7b4fc</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:dep.xml?expiresAt=1422505718816&amp;sig=c4f34ad60dc5c92e0a498141b3a7c23a</get>
                     <resourceName>sports_fitness</resourceName>
                   </value>
                 </entry>
@@ -112,7 +112,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-4mr.xml?expiresAt=1422339448022&amp;sig=9f580cb4186c788adbf1e4d0681ea24e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-4mr.xml?expiresAt=1422505718815&amp;sig=1415ed0213eaeab192ef0fa3b523f2b4</get>
                     <resourceName>mobile_accessories</resourceName>
                   </value>
                 </entry>
@@ -131,7 +131,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-5hp.xml?expiresAt=1422339448023&amp;sig=84d905a270e241bd6d0aa9b5037db8ce</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-5hp.xml?expiresAt=1422505718816&amp;sig=144a565712b35b0ffcbeab1145dbf959</get>
                     <resourceName>software</resourceName>
                   </value>
                 </entry>
@@ -150,7 +150,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:mcr.xml?expiresAt=1422339448024&amp;sig=94dddfa619a53215c9cb4f41819b94da</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:mcr.xml?expiresAt=1422505718816&amp;sig=a4bab5f08aa73c4a4d8f79712735b9ad</get>
                     <resourceName>jewellery</resourceName>
                   </value>
                 </entry>
@@ -169,7 +169,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:r4l.xml?expiresAt=1422339448024&amp;sig=99749d61ea82e444bc4de6c564b995d3</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:r4l.xml?expiresAt=1422505718816&amp;sig=dca4a734dba3f2a59d91f4ba9e47a097</get>
                     <resourceName>home_and_kitchen_needs</resourceName>
                   </value>
                 </entry>
@@ -188,7 +188,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:ckf-czl.xml?expiresAt=1422339448024&amp;sig=f57f756a67be2563319fde09d91288c3</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:ckf-czl.xml?expiresAt=1422505718816&amp;sig=c2c8f1f394e6ff95da74cfe4a6e729a5</get>
                     <resourceName>televisions</resourceName>
                   </value>
                 </entry>
@@ -207,7 +207,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-jdy.xml?expiresAt=1422339448022&amp;sig=7f0597d55f2a7fbc856d78943f0dcbfe</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-jdy.xml?expiresAt=1422505718814&amp;sig=168d6a2f740541296f1af29be219565d</get>
                     <resourceName>computer_storage</resourceName>
                   </value>
                 </entry>
@@ -226,7 +226,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:2oq-s9b.xml?expiresAt=1422339448023&amp;sig=395810219f5f31da22c20cd418211f51</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:2oq-s9b.xml?expiresAt=1422505718815&amp;sig=09b9e7ac0913c5e5ad80ea4e6e52a7b7</get>
                     <resourceName>mens_clothing</resourceName>
                   </value>
                 </entry>
@@ -245,7 +245,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:dgv.xml?expiresAt=1422339448023&amp;sig=bea7ba98e89c67af68a0c18900a1a76a</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:dgv.xml?expiresAt=1422505718816&amp;sig=300ee726d6fe6b8cc5668daf0f913017</get>
                     <resourceName>stationery_office_supplies</resourceName>
                   </value>
                 </entry>
@@ -264,7 +264,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-xdz.xml?expiresAt=1422339448023&amp;sig=23c6760af8c00f18f4ee74b9c41f5ac0</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-xdz.xml?expiresAt=1422505718815&amp;sig=d4814dad3ddf3e0f844a92de92b6daf3</get>
                     <resourceName>video_players</resourceName>
                   </value>
                 </entry>
@@ -283,7 +283,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-hry.xml?expiresAt=1422339448022&amp;sig=b40ab70dd86a12fe305f263519c90e8e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-hry.xml?expiresAt=1422505718815&amp;sig=2f1e8d7b7928d30840c4fdfeb71d011b</get>
                     <resourceName>tablets</resourceName>
                   </value>
                 </entry>
@@ -302,7 +302,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:osp-mba.xml?expiresAt=1422339448023&amp;sig=9d92d453dd9865a4e93cab95c1bbde30</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:osp-mba.xml?expiresAt=1422505718815&amp;sig=89b697f964b6e8694fe406c60e3ee888</get>
                     <resourceName>kids_footwear</resourceName>
                   </value>
                 </entry>
@@ -321,7 +321,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:1m7.xml?expiresAt=1422339448024&amp;sig=681f8f2d7acbcf2f663e33b843fcf430</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:1m7.xml?expiresAt=1422505718816&amp;sig=ca2a8b832457509f6d1eb51d2e8bd497</get>
                     <resourceName>home_decor_and_festive_needs</resourceName>
                   </value>
                 </entry>
@@ -340,7 +340,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:26x.xml?expiresAt=1422339448022&amp;sig=7709d7fa0d2ffcb0dc9eb92c30b79add</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:26x.xml?expiresAt=1422505718814&amp;sig=d02e73e996002100bd364f50de944963</get>
                     <resourceName>sunglasses</resourceName>
                   </value>
                 </entry>
@@ -359,7 +359,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:2oq-c1r.xml?expiresAt=1422339448023&amp;sig=98cb635adbe48eb04c7360477abfb403</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:2oq-c1r.xml?expiresAt=1422505718815&amp;sig=25d20282536184a5584d58b486c89ff2</get>
                     <resourceName>womens_clothing</resourceName>
                   </value>
                 </entry>
@@ -378,7 +378,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:2oq-mpf.xml?expiresAt=1422339448023&amp;sig=cdcb9d4e16928e8fc8842f403219e35f</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:2oq-mpf.xml?expiresAt=1422505718815&amp;sig=bd2d31f94525e4267bc6b757bc4d87a8</get>
                     <resourceName>kids_clothing</resourceName>
                   </value>
                 </entry>
@@ -397,7 +397,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:osp-iko.xml?expiresAt=1422339448023&amp;sig=19ff3398d112b23a7293259da7a07337</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:osp-iko.xml?expiresAt=1422505718815&amp;sig=d57323eff5beec83baaf0524640f1a03</get>
                     <resourceName>womens_footwear</resourceName>
                   </value>
                 </entry>
@@ -416,7 +416,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-52j.xml?expiresAt=1422339448024&amp;sig=54568f5276e3fcd18b0901dbdddf0005</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-52j.xml?expiresAt=1422505718816&amp;sig=8eb09693088548f07b990b830254399b</get>
                     <resourceName>air_coolers</resourceName>
                   </value>
                 </entry>
@@ -435,7 +435,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:4kt.xml?expiresAt=1422339448024&amp;sig=4bffe1c50476225c1c7d024fdd6b081b</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:4kt.xml?expiresAt=1422505718816&amp;sig=cc12e2d13d3e683b794e92e88f826959</get>
                     <resourceName>music_movies_posters</resourceName>
                   </value>
                 </entry>
@@ -454,7 +454,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-igk.xml?expiresAt=1422339448022&amp;sig=263f279c58534fdd7c8b15e2af044aed</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-igk.xml?expiresAt=1422505718814&amp;sig=226c736d6053ea8431f10a1b72b57a0c</get>
                     <resourceName>desktops</resourceName>
                   </value>
                 </entry>
@@ -473,7 +473,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:4rr.xml?expiresAt=1422339448023&amp;sig=7a2abd2208ae6ee2a9a98ef20e6c1bfa</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:4rr.xml?expiresAt=1422505718815&amp;sig=6b16939f337827d96f5b455bef8ab251</get>
                     <resourceName>gaming</resourceName>
                   </value>
                 </entry>
@@ -492,7 +492,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-m38-o49.xml?expiresAt=1422339448024&amp;sig=5d944e286443bc214906b04adddc9a40</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-m38-o49.xml?expiresAt=1422505718816&amp;sig=0ba7fbaa3518cadf60411467e9b15bd5</get>
                     <resourceName>microwave_ovens</resourceName>
                   </value>
                 </entry>
@@ -511,7 +511,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-ai3.xml?expiresAt=1422339448022&amp;sig=f97fd4f6a6d8d5ddc25e45bd857078ad</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-ai3.xml?expiresAt=1422505718815&amp;sig=80d9e1d91cf15c63ddd79cdfc4aaa05f</get>
                     <resourceName>laptop_accessories</resourceName>
                   </value>
                 </entry>
@@ -530,7 +530,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-jgu.xml?expiresAt=1422339448022&amp;sig=e5b4c02357b7d9e1d967f81ccc275489</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-jgu.xml?expiresAt=1422505718815&amp;sig=5d3fd984e7c82f067e04e7c915933c48</get>
                     <resourceName>tablet_accessories</resourceName>
                   </value>
                 </entry>
@@ -549,7 +549,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-4io.xml?expiresAt=1422339448022&amp;sig=6926ac955b6aa5195cb2715e6682b47d</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-4io.xml?expiresAt=1422505718815&amp;sig=b1cfd7a02038a5871172d1ea951dcb95</get>
                     <resourceName>mobiles</resourceName>
                   </value>
                 </entry>
@@ -568,7 +568,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:t06.xml?expiresAt=1422339448022&amp;sig=c468a9340cbac14a8ba53ec546cfb37f</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:t06.xml?expiresAt=1422505718814&amp;sig=3fdbe495a0309ab47e277e90d58016fe</get>
                     <resourceName>grooming_beauty_wellness</resourceName>
                   </value>
                 </entry>
@@ -587,7 +587,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-m38.xml?expiresAt=1422339448023&amp;sig=8b79f9dc203a66fac4424be2c94cf34f</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-m38.xml?expiresAt=1422505718815&amp;sig=e74eb0d2b8c7982539b62cc2e9a2516d</get>
                     <resourceName>kitchen_appliances</resourceName>
                   </value>
                 </entry>
@@ -606,7 +606,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:r18.xml?expiresAt=1422339448022&amp;sig=aaead39b1072d46264039d59bbb9c79a</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:r18.xml?expiresAt=1422505718814&amp;sig=9f48da12440cfa8f3e9f04bcdd065a97</get>
                     <resourceName>watches</resourceName>
                   </value>
                 </entry>
@@ -625,7 +625,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:jek-p31.xml?expiresAt=1422339448022&amp;sig=86b8b726a9be1011c3a0381c7b835509</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:jek-p31.xml?expiresAt=1422505718814&amp;sig=24d7a6f7bcdebff099518b92148ebf72</get>
                     <resourceName>cameras</resourceName>
                   </value>
                 </entry>
@@ -644,7 +644,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:amz.xml?expiresAt=1422339448024&amp;sig=dce9d38b2a07906d64ad54c7dce7f2e1</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:amz.xml?expiresAt=1422505718816&amp;sig=5604c881976ba6f6f82159d9383140ca</get>
                     <resourceName>home_improvement_tools</resourceName>
                   </value>
                 </entry>
@@ -663,7 +663,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-n0e.xml?expiresAt=1422339448023&amp;sig=ac2d4435d867f0bdd9ea1f2d3fce5a85</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:tyy-n0e.xml?expiresAt=1422505718815&amp;sig=092fcbb2a3b7f8c70946b15ef883581f</get>
                     <resourceName>landline_phones</resourceName>
                   </value>
                 </entry>
@@ -682,7 +682,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-70k.xml?expiresAt=1422339448022&amp;sig=60706e18d6ba2085449ca15edb676699</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-70k.xml?expiresAt=1422505718814&amp;sig=17b22abc2947ca40d616ac00f9ba10bb</get>
                     <resourceName>network_components</resourceName>
                   </value>
                 </entry>
@@ -701,7 +701,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-b5g.xml?expiresAt=1422339448022&amp;sig=5b6b0705193649ecc20b1d1b0dff3fdb</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-b5g.xml?expiresAt=1422505718815&amp;sig=15e7ba687c000cec376e1367cf9ca8f3</get>
                     <resourceName>laptops</resourceName>
                   </value>
                 </entry>
@@ -720,7 +720,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:reh-plk.xml?expiresAt=1422339448024&amp;sig=e05812adbdea92ec74f31554b0b3ba7d</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:reh-plk.xml?expiresAt=1422505718816&amp;sig=b43af055570d4c990ff9f9d0d475bc2d</get>
                     <resourceName>luggage_travel</resourceName>
                   </value>
                 </entry>
@@ -739,7 +739,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-hzg.xml?expiresAt=1422339448024&amp;sig=0eb3bd6caab683487f0cd3871957c591</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-hzg.xml?expiresAt=1422505718816&amp;sig=fa96dc4ccef641324bc325dc4b0df7f5</get>
                     <resourceName>refrigerator</resourceName>
                   </value>
                 </entry>
@@ -758,7 +758,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:ckf.xml?expiresAt=1422339448023&amp;sig=634b6ca093e23b65bd6b88926deedac9</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:ckf.xml?expiresAt=1422505718816&amp;sig=9bc5cf18d10c112f8d6d833a2c9fbda7</get>
                     <resourceName>home_entertainment</resourceName>
                   </value>
                 </entry>
@@ -777,7 +777,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-c54.xml?expiresAt=1422339448024&amp;sig=1f1dd28c9772e246a11ebb4feec24d63</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-c54.xml?expiresAt=1422505718816&amp;sig=33d9d522cf92bba912ec61528c24540f</get>
                     <resourceName>air_conditioners</resourceName>
                   </value>
                 </entry>
@@ -796,7 +796,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-tia.xml?expiresAt=1422339448022&amp;sig=ad422874ef0d649425ba2469c77a8b36</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-tia.xml?expiresAt=1422505718814&amp;sig=bf735a9adabe7f0fd803d357525d238e</get>
                     <resourceName>computer_peripherals</resourceName>
                   </value>
                 </entry>
@@ -815,7 +815,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-ord.xml?expiresAt=1422339448023&amp;sig=30453814b828fae9d8d99506a0e5f3ff</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-ord.xml?expiresAt=1422505718815&amp;sig=b6b5e9da866559f089f09c084e0fe1d3</get>
                     <resourceName>audio_players</resourceName>
                   </value>
                 </entry>
@@ -834,7 +834,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:vdm.xml?expiresAt=1422339448023&amp;sig=8623975ba708ad3e5fa4a18f9cebc888</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:vdm.xml?expiresAt=1422505718815&amp;sig=809040e8f217920518bf94cb9f21107b</get>
                     <resourceName>home_furnishing</resourceName>
                   </value>
                 </entry>
@@ -853,7 +853,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:kyh.xml?expiresAt=1422339448021&amp;sig=c33759596294203b0d7db8308c40ae18</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:kyh.xml?expiresAt=1422505718814&amp;sig=3b3bbd33737f954468fe730aedbceff5</get>
                     <resourceName>baby_care</resourceName>
                   </value>
                 </entry>
@@ -872,7 +872,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:xfw.xml?expiresAt=1422339448024&amp;sig=af8844dea0a5d9aa6d661deefcbb9daa</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:xfw.xml?expiresAt=1422505718816&amp;sig=97c4ec29d3495bbf2ea63955d630e1e0</get>
                     <resourceName>e_learning</resourceName>
                   </value>
                 </entry>
@@ -891,7 +891,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:mgl.xml?expiresAt=1422339448022&amp;sig=af32ab6cf12648085ccca3b0e80ecc16</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:mgl.xml?expiresAt=1422505718814&amp;sig=1c74ea59dc159f582234e2a3693f228e</get>
                     <resourceName>toys</resourceName>
                   </value>
                 </entry>
@@ -910,7 +910,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm.xml?expiresAt=1422339448023&amp;sig=6d8fc17283599316d855da0e89b05dd5</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm.xml?expiresAt=1422505718815&amp;sig=427f708a9fa7c8db647911f8ba375f83</get>
                     <resourceName>home_appliances</resourceName>
                   </value>
                 </entry>
@@ -929,7 +929,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-g0i.xml?expiresAt=1422339448022&amp;sig=5d80bbbc2124c0672c7ed5b06faa3eb0</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:6bo-g0i.xml?expiresAt=1422505718814&amp;sig=03f9d9102946c7a4dc12cc8217a99cd2</get>
                     <resourceName>computer_components</resourceName>
                   </value>
                 </entry>
@@ -948,7 +948,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-8qx.xml?expiresAt=1422339448024&amp;sig=1a18ae44cf6580f50c3c867aa494743c</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:j9e-abm-8qx.xml?expiresAt=1422505718816&amp;sig=4e840f92be9d5ceb7ce773bc4ae17344</get>
                     <resourceName>washing_machine</resourceName>
                   </value>
                 </entry>
@@ -967,7 +967,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:osp-cil.xml?expiresAt=1422339448023&amp;sig=46afabb209fbb3b8a9e4647bf4750a22</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:osp-cil.xml?expiresAt=1422505718815&amp;sig=f103a1a02803d04435e5b026e0f31f6b</get>
                     <resourceName>mens_footwear</resourceName>
                   </value>
                 </entry>
@@ -989,7 +989,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/reh?expiresAt=1422339448025&amp;sig=d30025a546dc7a9012b566f8f037a58a</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/reh?expiresAt=1422505718817&amp;sig=cb99b627a6dba2fb3cd3870313ab8fee</get>
                     <resourceName>bags_wallets_belts</resourceName>
                   </value>
                 </entry>
@@ -1008,7 +1008,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/t06-r3o?expiresAt=1422339448025&amp;sig=a1ddafa1d37421919ed0541af4466b8e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/t06-r3o?expiresAt=1422505718818&amp;sig=26d3e46e03f052c211da28791cbdb9a4</get>
                     <resourceName>fragrances</resourceName>
                   </value>
                 </entry>
@@ -1027,7 +1027,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-ul6?expiresAt=1422339448026&amp;sig=02ec7574323c46b4fb28a0bf6f44227a</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-ul6?expiresAt=1422505718819&amp;sig=00a750405c5e58f009e28f5f9a8efe0a</get>
                     <resourceName>tv_video_accessories</resourceName>
                   </value>
                 </entry>
@@ -1046,7 +1046,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/jek-6l2?expiresAt=1422339448025&amp;sig=4e8781ffb582936a6ffb7b5d6c8c9865</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/jek-6l2?expiresAt=1422505718818&amp;sig=276b931c4216c5e3aee580f89f17bb8e</get>
                     <resourceName>camera_accessories</resourceName>
                   </value>
                 </entry>
@@ -1065,7 +1065,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/dep?expiresAt=1422339448027&amp;sig=a60a3197aeca32a5413a609fa25ba0bb</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/dep?expiresAt=1422505718819&amp;sig=76df3156f4c7b2e566bad1e1f5428ef1</get>
                     <resourceName>sports_fitness</resourceName>
                   </value>
                 </entry>
@@ -1084,7 +1084,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-4mr?expiresAt=1422339448026&amp;sig=941ea78f13d5df24dd1ff9caa41f2841</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-4mr?expiresAt=1422505718818&amp;sig=fc3b6406ab0e5d75f1c29aa388281bef</get>
                     <resourceName>mobile_accessories</resourceName>
                   </value>
                 </entry>
@@ -1103,7 +1103,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-5hp?expiresAt=1422339448027&amp;sig=8860c694eaf506d3df1598e2fddf8df4</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-5hp?expiresAt=1422505718819&amp;sig=432461ddd4cdf36a99a12415d3a423c2</get>
                     <resourceName>software</resourceName>
                   </value>
                 </entry>
@@ -1122,7 +1122,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/mcr?expiresAt=1422339448027&amp;sig=38a936d249fcb03e4636ddf6e54f8a3d</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/mcr?expiresAt=1422505718819&amp;sig=dc4d3e95804651b62ef63903c5ee228c</get>
                     <resourceName>jewellery</resourceName>
                   </value>
                 </entry>
@@ -1141,7 +1141,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/r4l?expiresAt=1422339448027&amp;sig=a9aaca4907eb0d1295836dad757eeaae</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/r4l?expiresAt=1422505718819&amp;sig=80bc7afe6b198079bdae0d7fec75e65f</get>
                     <resourceName>home_and_kitchen_needs</resourceName>
                   </value>
                 </entry>
@@ -1160,7 +1160,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/ckf-czl?expiresAt=1422339448027&amp;sig=768f84aa0d9f012f9f6e68ff43d61110</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/ckf-czl?expiresAt=1422505718819&amp;sig=77da6f79d661988df8d00860c3ce5cbd</get>
                     <resourceName>televisions</resourceName>
                   </value>
                 </entry>
@@ -1179,7 +1179,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-jdy?expiresAt=1422339448026&amp;sig=924af8cbc075fcc739c2ba385a989b8d</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-jdy?expiresAt=1422505718818&amp;sig=32a56d7bfd96eba4096d1397b803b8df</get>
                     <resourceName>computer_storage</resourceName>
                   </value>
                 </entry>
@@ -1198,7 +1198,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/2oq-s9b?expiresAt=1422339448026&amp;sig=e1b07b0e113cb858a166b3ecf6b1bd61</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/2oq-s9b?expiresAt=1422505718818&amp;sig=9b000489cecff5bb04a64dcd150d9b8f</get>
                     <resourceName>mens_clothing</resourceName>
                   </value>
                 </entry>
@@ -1217,7 +1217,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/dgv?expiresAt=1422339448026&amp;sig=5925a21a671665f0d706ee8cc43bf4e2</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/dgv?expiresAt=1422505718819&amp;sig=cff102f863e0c024d0eab82c03aeffd2</get>
                     <resourceName>stationery_office_supplies</resourceName>
                   </value>
                 </entry>
@@ -1236,7 +1236,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-xdz?expiresAt=1422339448026&amp;sig=10608f4cfcde7f81b0227aad644acabd</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-xdz?expiresAt=1422505718819&amp;sig=31cddf581ee16c6481df5a3c2088c480</get>
                     <resourceName>video_players</resourceName>
                   </value>
                 </entry>
@@ -1255,7 +1255,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-hry?expiresAt=1422339448026&amp;sig=ebc122b3cec7900082f7377073b06046</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-hry?expiresAt=1422505718818&amp;sig=820ed33b1157e015def0fc9b86102d62</get>
                     <resourceName>tablets</resourceName>
                   </value>
                 </entry>
@@ -1274,7 +1274,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/osp-mba?expiresAt=1422339448026&amp;sig=77224a0dbc65b98e893074a67ae06966</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/osp-mba?expiresAt=1422505718818&amp;sig=1684ed18afbedc3ad960c14b1c81f59c</get>
                     <resourceName>kids_footwear</resourceName>
                   </value>
                 </entry>
@@ -1293,7 +1293,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/1m7?expiresAt=1422339448027&amp;sig=05ada25435185c2fb667ad44207abd1e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/1m7?expiresAt=1422505718819&amp;sig=eaa37890238e09a3bde56f4710da6913</get>
                     <resourceName>home_decor_and_festive_needs</resourceName>
                   </value>
                 </entry>
@@ -1312,7 +1312,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/26x?expiresAt=1422339448025&amp;sig=698726e658e792f61efe65029abaa237</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/26x?expiresAt=1422505718818&amp;sig=d24b5fd1fabc1e2369426f690aec7aa0</get>
                     <resourceName>sunglasses</resourceName>
                   </value>
                 </entry>
@@ -1331,7 +1331,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/2oq-c1r?expiresAt=1422339448026&amp;sig=391ca3563ce47e12db2d7f9a86f68cb2</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/2oq-c1r?expiresAt=1422505718819&amp;sig=4858c31024257146951db94c0ee4726f</get>
                     <resourceName>womens_clothing</resourceName>
                   </value>
                 </entry>
@@ -1350,7 +1350,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/2oq-mpf?expiresAt=1422339448026&amp;sig=7fb556228f31e9a8b9ad76e15ab3e338</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/2oq-mpf?expiresAt=1422505718818&amp;sig=1a64110d5288c5c12284c0bd7760a593</get>
                     <resourceName>kids_clothing</resourceName>
                   </value>
                 </entry>
@@ -1369,7 +1369,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/osp-iko?expiresAt=1422339448026&amp;sig=43a9958aa88f0521a96e2c0f01bdb8ab</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/osp-iko?expiresAt=1422505718819&amp;sig=d1cd6f11c7d19023efe8ba3c4336f5f9</get>
                     <resourceName>womens_footwear</resourceName>
                   </value>
                 </entry>
@@ -1388,7 +1388,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-52j?expiresAt=1422339448027&amp;sig=85e5b378887c8eb4573fde46c3026b03</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-52j?expiresAt=1422505718819&amp;sig=cc84d49021bc36027bb070f2cf53547f</get>
                     <resourceName>air_coolers</resourceName>
                   </value>
                 </entry>
@@ -1407,7 +1407,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/4kt?expiresAt=1422339448027&amp;sig=0aa2d7a2ffb061b979f115c45cb2b33e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/4kt?expiresAt=1422505718819&amp;sig=631cac78967029b2c5c3487c79f2dabc</get>
                     <resourceName>music_movies_posters</resourceName>
                   </value>
                 </entry>
@@ -1426,7 +1426,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-igk?expiresAt=1422339448026&amp;sig=bad9eec03910310f627c6d210eaabde5</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-igk?expiresAt=1422505718818&amp;sig=5f93bbef838380a6307af1e36b6728c0</get>
                     <resourceName>desktops</resourceName>
                   </value>
                 </entry>
@@ -1445,7 +1445,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/4rr?expiresAt=1422339448026&amp;sig=a7ef86d9057b0b3b24ec3448be4a9c2a</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/4rr?expiresAt=1422505718819&amp;sig=aed3abd9eb9b0aeed3f0f9aae974b259</get>
                     <resourceName>gaming</resourceName>
                   </value>
                 </entry>
@@ -1464,7 +1464,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-m38-o49?expiresAt=1422339448027&amp;sig=68a945dbaf6a1732d0b02dafd3001b62</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-m38-o49?expiresAt=1422505718819&amp;sig=e0c2672f7044a868945f28a9fbdcf4d5</get>
                     <resourceName>microwave_ovens</resourceName>
                   </value>
                 </entry>
@@ -1483,7 +1483,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-ai3?expiresAt=1422339448026&amp;sig=5045900bbb3f90668c23e73829a8fc93</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-ai3?expiresAt=1422505718818&amp;sig=1c9bc6cd9d6cf84c882c2eb013573e36</get>
                     <resourceName>laptop_accessories</resourceName>
                   </value>
                 </entry>
@@ -1502,7 +1502,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-jgu?expiresAt=1422339448026&amp;sig=b747ec15aee0d2b8cad871303fd995c8</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-jgu?expiresAt=1422505718818&amp;sig=5790da54622600be1ee9faf4cd6d5b9f</get>
                     <resourceName>tablet_accessories</resourceName>
                   </value>
                 </entry>
@@ -1521,7 +1521,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-4io?expiresAt=1422339448026&amp;sig=c46528df5e2726e1ef756c3df6ecee3b</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-4io?expiresAt=1422505718818&amp;sig=c31a01a3018b7c78810e458d22f91436</get>
                     <resourceName>mobiles</resourceName>
                   </value>
                 </entry>
@@ -1540,7 +1540,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/t06?expiresAt=1422339448025&amp;sig=4e224309f6fdb9713e0651a107a5feb5</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/t06?expiresAt=1422505718817&amp;sig=6ba249eebc7fa0c3118b79dbbeae722b</get>
                     <resourceName>grooming_beauty_wellness</resourceName>
                   </value>
                 </entry>
@@ -1559,7 +1559,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-m38?expiresAt=1422339448026&amp;sig=777b70f6b5e824a2bc955dc7e108af4c</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-m38?expiresAt=1422505718818&amp;sig=9c2e683c7d3e1839b049dffdce8c6a0e</get>
                     <resourceName>kitchen_appliances</resourceName>
                   </value>
                 </entry>
@@ -1578,7 +1578,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/r18?expiresAt=1422339448025&amp;sig=933c231f144b65609d582b9c854325d9</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/r18?expiresAt=1422505718818&amp;sig=23e4c6f0df0eb6871908b4ef8c582790</get>
                     <resourceName>watches</resourceName>
                   </value>
                 </entry>
@@ -1597,7 +1597,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/jek-p31?expiresAt=1422339448025&amp;sig=c54b42180ba562bacb34a71bba631094</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/jek-p31?expiresAt=1422505718818&amp;sig=8c23378f759c521c8e36f925e8826ea9</get>
                     <resourceName>cameras</resourceName>
                   </value>
                 </entry>
@@ -1616,7 +1616,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/amz?expiresAt=1422339448027&amp;sig=acd901d0bca1e26746554fa8235c88dd</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/amz?expiresAt=1422505718819&amp;sig=c8ea0093ac051fee9abe263dbaa50e07</get>
                     <resourceName>home_improvement_tools</resourceName>
                   </value>
                 </entry>
@@ -1635,7 +1635,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-n0e?expiresAt=1422339448026&amp;sig=e4c1f574f4039449f58189b93f237fba</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/tyy-n0e?expiresAt=1422505718818&amp;sig=86a0d77b2c6e3581451bf238f54d74a8</get>
                     <resourceName>landline_phones</resourceName>
                   </value>
                 </entry>
@@ -1654,7 +1654,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-70k?expiresAt=1422339448025&amp;sig=158f7fd5a86ec69c4c546b2b70a20960</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-70k?expiresAt=1422505718818&amp;sig=116764cfe3eb1ab37bf95c07b33e9f2e</get>
                     <resourceName>network_components</resourceName>
                   </value>
                 </entry>
@@ -1673,7 +1673,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-b5g?expiresAt=1422339448026&amp;sig=10a2f4a4708a1615c1345aea142efa1c</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-b5g?expiresAt=1422505718818&amp;sig=7bffa0f6551870acff3ab91293cdb790</get>
                     <resourceName>laptops</resourceName>
                   </value>
                 </entry>
@@ -1692,7 +1692,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/reh-plk?expiresAt=1422339448027&amp;sig=08d022ab152c2d5f70092731e30d8201</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/reh-plk?expiresAt=1422505718819&amp;sig=617f5a7dedb0cbd593ad1713a826cf0e</get>
                     <resourceName>luggage_travel</resourceName>
                   </value>
                 </entry>
@@ -1711,7 +1711,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-hzg?expiresAt=1422339448027&amp;sig=48808a143cbe86b023873dd94e1621ba</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-hzg?expiresAt=1422505718819&amp;sig=0916358adc9694f297a84febe20e5480</get>
                     <resourceName>refrigerator</resourceName>
                   </value>
                 </entry>
@@ -1730,7 +1730,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/ckf?expiresAt=1422339448026&amp;sig=7421682e2e3fc0cf117e06108e9d5185</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/ckf?expiresAt=1422505718819&amp;sig=b74b9524349ea8ced71b2a1e2cc5e8f3</get>
                     <resourceName>home_entertainment</resourceName>
                   </value>
                 </entry>
@@ -1749,7 +1749,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-c54?expiresAt=1422339448027&amp;sig=bb693638ca2b9b7e09adf7fc7f9eeee6</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-c54?expiresAt=1422505718819&amp;sig=21a19a5492ca64dbc2ee0d4fc07ce21e</get>
                     <resourceName>air_conditioners</resourceName>
                   </value>
                 </entry>
@@ -1768,7 +1768,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-tia?expiresAt=1422339448025&amp;sig=2543b6b8f770077e731f560c06d02d17</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-tia?expiresAt=1422505718818&amp;sig=3356407d6cacda232a86edd13880bd8a</get>
                     <resourceName>computer_peripherals</resourceName>
                   </value>
                 </entry>
@@ -1787,7 +1787,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-ord?expiresAt=1422339448026&amp;sig=f7f43a1fac53ea465879ed778485b376</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-ord?expiresAt=1422505718819&amp;sig=070dc000fe8c4ba8ed9b1617f1badc36</get>
                     <resourceName>audio_players</resourceName>
                   </value>
                 </entry>
@@ -1806,7 +1806,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/vdm?expiresAt=1422339448026&amp;sig=b620bdee64776560fefe0e3de474a15a</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/vdm?expiresAt=1422505718818&amp;sig=92e9b91fe94ee257a98ab2de8f3c7328</get>
                     <resourceName>home_furnishing</resourceName>
                   </value>
                 </entry>
@@ -1825,7 +1825,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/kyh?expiresAt=1422339448025&amp;sig=77a989aaa8722682019577bcc2074f0e</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/kyh?expiresAt=1422505718817&amp;sig=86b3dee60d0fbe238f7c3f4c3aabf3f8</get>
                     <resourceName>baby_care</resourceName>
                   </value>
                 </entry>
@@ -1844,7 +1844,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/xfw?expiresAt=1422339448027&amp;sig=ce6b742769a169a6ec46e5fdd9ae8e35</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/xfw?expiresAt=1422505718819&amp;sig=b3370df9805efacbaa98b21e2e47f9e2</get>
                     <resourceName>e_learning</resourceName>
                   </value>
                 </entry>
@@ -1863,7 +1863,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/mgl?expiresAt=1422339448025&amp;sig=5d312c4bac2f2393f03d317babac6433</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/mgl?expiresAt=1422505718817&amp;sig=bb8e1848cd737d0585a7aca06e98ec66</get>
                     <resourceName>toys</resourceName>
                   </value>
                 </entry>
@@ -1882,7 +1882,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm?expiresAt=1422339448026&amp;sig=9576f4a503fe7236daabd39c7f756d31</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm?expiresAt=1422505718818&amp;sig=b4dc2e45fd8264a80b88e914297ff533</get>
                     <resourceName>home_appliances</resourceName>
                   </value>
                 </entry>
@@ -1901,7 +1901,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-g0i?expiresAt=1422339448025&amp;sig=02cfaa0e973d113a4586731de6ea32d1</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/6bo-g0i?expiresAt=1422505718818&amp;sig=33320bc8052c2537d8aea0ad5b4f57c4</get>
                     <resourceName>computer_components</resourceName>
                   </value>
                 </entry>
@@ -1920,7 +1920,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-8qx?expiresAt=1422339448027&amp;sig=76027a6aff97d8a149172b2b2c33fd31</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/j9e-abm-8qx?expiresAt=1422505718819&amp;sig=2094687aac233c5b70d8c0f87fc6946d</get>
                     <resourceName>washing_machine</resourceName>
                   </value>
                 </entry>
@@ -1939,7 +1939,7 @@
                     <patchVersion>0</patchVersion>
                   </key>
                   <value>
-                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/osp-cil?expiresAt=1422339448026&amp;sig=5ffc3c35ea60c8ff18f572a6e49db624</get>
+                    <get>https://affiliate-api.flipkart.net/affiliate/feeds/rawfiles/osp-cil?expiresAt=1422505718819&amp;sig=679c7b6290d5a444f983450edea85d4c</get>
                     <resourceName>mens_footwear</resourceName>
                   </value>
                 </entry>

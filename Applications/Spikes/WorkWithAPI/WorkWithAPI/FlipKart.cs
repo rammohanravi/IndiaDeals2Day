@@ -5,6 +5,7 @@ using System.Xml.Linq;
 using System.Text;
 using System.Net;
 using System.Xml;
+using System.Threading;
 
 
 namespace WorkWithAPI
@@ -49,6 +50,10 @@ namespace WorkWithAPI
                 ReadProductData(productUrl, productName);
                 Console.WriteLine("{0}.{1}  Done", i,productName);
                 i++;
+                Console.WriteLine("Time now : {0}",System.DateTime.Now);
+                Thread.Sleep(5000);
+                Console.Write("Thread slept for 5sec");
+                Console.WriteLine("Time now : {0}", System.DateTime.Now);
             }
         }
 

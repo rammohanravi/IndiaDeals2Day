@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:ProductFeed xmlns:ns2="http://www.flipkart.com/affiliate">
-  <nextUrl>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:r4l/v1:r4l-afn-jvd-ajv:MUGDRYT4E2BT5HH8.xml?expiresAt=1422339524552&amp;sig=3ae330125d84ac99f1dc9876dfa77b65</nextUrl>
+  <nextUrl>https://affiliate-api.flipkart.net/affiliate/feeds/8dc2e42936284c418135793bf9d42185/category/v1:r4l/v1:r4l-afn-jvd-ajv:MUGDRYT4E2BT5HH8.xml?expiresAt=1422505821780&amp;sig=81460f5e6651064de1ebf93b1c1f58b0</nextUrl>
   <products>
     <productInfoList>
       <offset>v1:r4l-afn-12b:CNSDYBPMGDUKJGJ7</offset>
@@ -41305,5 +41305,5 @@
       <productShippingBaseInfo />
     </productInfoList>
   </products>
-  <validTill>2015-01-27T11:48:44.552+05:30</validTill>
+  <validTill>2015-01-29T10:00:21.781+05:30</validTill>
 </ns2:ProductFeed>
