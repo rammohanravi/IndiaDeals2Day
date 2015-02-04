@@ -7,5 +7,9 @@ namespace WorkWithAPI
 {
     internal class Amazon
     {
+        internal void AmazonLookup()
+        {
+
+        }
     }
 }

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <statusCode>OK</statusCode>
+  <statusMessage>
+  </statusMessage>
+  <ipAddress>1.22.2.81</ipAddress>
+  <countryCode>IN</countryCode>
+  <countryName>India</countryName>
+  <regionName>Delhi</regionName>
+  <cityName>New Delhi</cityName>
+  <zipCode>110001</zipCode>
+  <latitude>28.6358</latitude>
+  <longitude>77.2244</longitude>
+  <timeZone>+05:30</timeZone>
+</Response>
